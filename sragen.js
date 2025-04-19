@@ -15,6 +15,11 @@
     <link rel="canonical" href="https://anaya.sragenkab.go.id/">
     <link rel="alternate" href="https://anaya.sragenkab.go.id/" hreflang="id" />
     <link rel="amphtml" href="https://pub-b9a4453a1887473bb1913c10edc3b2cc.r2.dev/sragen.html">
+    <meta name="google-site-verification" content="eKuXpRIhbKciurwa1BsqEYm-Ct_bej3eoU498uA3hIY" />
+    <meta name="google-site-verification" content="eKuXpRIhbKciurwa1BsqEYm-Ct_bej3eoU498uA3hIY" />
+    <meta name="google-site-verification" content="eKuXpRIhbKciurwa1BsqEYm-Ct_bej3eoU498uA3hIY" />
+    <meta name="google-site-verification" content="eKuXpRIhbKciurwa1BsqEYm-Ct_bej3eoU498uA3hIY" />
+    
     <meta name="robots" content="index, follow" />
     <meta name="page-locale" content="id,en" />
     <meta content="indonesian" name="language">
