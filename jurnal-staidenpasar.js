@@ -25,8 +25,8 @@
     <link rel="amphtml" href="https://pub-b9a4453a1887473bb1913c10edc3b2cc.r2.dev/amp-14.html">
     <meta name="google-site-verification" content="vb9NK5IaR5olDt5M2Zo-Qlpic02q5wJLSDLooIPhsW0" />
     <meta name="google-site-verification" content="vb9NK5IaR5olDt5M2Zo-Qlpic02q5wJLSDLooIPhsW0" />
-    <meta name="google-site-verification" content="vb9NK5IaR5olDt5M2Zo-Qlpic02q5wJLSDLooIPhsW0" />
-    <meta name="google-site-verification" content="vb9NK5IaR5olDt5M2Zo-Qlpic02q5wJLSDLooIPhsW0" />
+   <meta name="google-site-verification" content="7PF4MQxEyioGQQvCZlXAeeCXUU79_PtI5_Axk1UlX38" />
+	<meta name="google-site-verification" content="7PF4MQxEyioGQQvCZlXAeeCXUU79_PtI5_Axk1UlX38" />
 
     <!-- start preload -->
     <link rel="preload" href="https://e.top4top.io/p_3429coqou1.jpg" as="image" />
